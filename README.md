@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeForceNero17
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on viruses
 - 📫 How to reach me 
 
