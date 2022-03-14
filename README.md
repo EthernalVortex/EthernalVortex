@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @GeForceNero17
+- 👋 Hi, I’m @VortexGTX
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on viruses
-- 📫 How to reach me it's impossible
+- 📫 How to reach me you can't
 
-<!---
-GeForceNero17/GeForceNero17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
