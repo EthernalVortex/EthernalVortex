@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @VortexGTX
+- 👋 Hi, I’m @EthernalVortex
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate at viruses
 - 📫 How to reach me you can't
-
